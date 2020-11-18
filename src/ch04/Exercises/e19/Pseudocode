@@ -1,0 +1,12 @@
+ /* list the items and assign their prices
+    *  earnings = $200 + ( 9% of gross sales )
+    *  prompt the user to input how many of items 1 sold
+    * value of item 1 sold = item1 * number of item 1 sold
+    *  prompt the user to input how many of items 2 sold
+    * value of item 2 sold = item2 * number of item 2 sold
+    *  prompt the user to input how many of items 3 sold
+    * value of item 3 sold = item3 * number of item 3 sold
+    *  prompt the user to input how many of items 4 sold
+    * value of item 4 sold = item4 * number of item 4 sold
+    *  add the total of values (item 1 + item2 sold + item3 sold + item4 sold)
+    * compute earning for sales person.*/

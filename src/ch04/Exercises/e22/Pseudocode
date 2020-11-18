@@ -1,0 +1,8 @@
+4.22 Tabular Output Pseudocode
+
+
+print header of output
+int counter =1
+while[ (counter < 6)
+System prints ( counter, counter x 10,counter x 100, counter x 10000)
+increment counter]

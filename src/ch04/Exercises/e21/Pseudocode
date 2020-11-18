@@ -1,0 +1,26 @@
+4.21 Largest Number Pseudocode
+Input 10 Integers
+Determines and prints the largest number
+
+a. counter : to count to 10 ( ie keep track of how many numbers have been inputted and to determine when
+all  10 numbers have been processed)
+
+b. number: the integer most recently input by the user
+
+c. largest : the largest number found so far.
+
+
+
+assign zero to counter as an integer variable
+assign zero to largest as an integer variable
+initialize variable called number as an integer
+
+while counter <= 10
+    prompt the user to enter units sold
+    assign unit sold to the variable number
+    if ( number > largest )
+    largest = number
+    increment counter
+
+Output the largest number found
+

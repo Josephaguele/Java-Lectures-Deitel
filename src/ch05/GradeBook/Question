@@ -1,0 +1,7 @@
+GradeBook Class with switch Statement to Count A, B, C, D and F Grades
+Figure 5.9 enhances class GradeBook from Chapters 3–4. The new version we now present
+not only calculates the average of a set of numeric grades entered by the user, but uses a
+switch statement to determine whether each grade is the equivalent of an A, B, C, D or F
+and to increment the appropriate grade counter. The class also displays a summary of the
+number of students who received each grade. Refer to Fig. 5.10 for sample inputs and outputs
+of the GradeBookTest application that uses class GradeBook to process a set of grades.

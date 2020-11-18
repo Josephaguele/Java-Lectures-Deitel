@@ -1,0 +1,22 @@
+QUESTION:
+A class of ten students took a quiz. The grades (integers in the range 0 to 100) for this
+quiz are available to you. Determine the class average on the quiz.
+
+Note the references in the algorithm of Fig. 4.5 to a total and a counter. A total is a
+variable used to accumulate the sum of several values. A counter is a variable used to
+count—in this case, the grade counter indicates which of the 10 grades is about to be
+entered by the user. Variables used to store totals are normally initialized to zero before
+being used in a program.
+
+1 Set total to zero
+2 Set grade counter to one
+3
+4 While grade counter is less than or equal to ten
+5 Prompt the user to enter the next grade
+6 Input the next grade
+7 Add the grade into the total
+8 Add one to the grade counter
+9
+10 Set the class average to the total divided by ten
+11 Print the class average
+

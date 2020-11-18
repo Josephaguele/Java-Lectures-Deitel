@@ -1,0 +1,33 @@
+    /*Gross pay for 3 employees
+    * straight time for 40 hours
+    * 1.5 times for hours > 40
+    * Input
+    * List of employees - Names
+    * Their hours worked last week
+    * Hourly rates.
+    * Determine the employee's grosspAY
+    *
+    *
+    *           VARIABLES
+    *           hourlyRates
+    *           hoursWorked
+    *           EmployeeName
+    *           grossPay
+    *
+    *
+    * method name  -- grossPay
+    * calling Scanner class -- System.in
+    * User prompt - Enter your Employee NAME
+    * Store Employee name
+    * User prompt = Enter your hourlyRate
+    * Store hourlyRate
+    * User prompt - Enter the number of hours you worked
+    * Store hours Worked
+    *
+    *
+    * if hoursWorked <= 40
+    * grossPay = hourlyRates * hoursWorked
+    *
+    * else if hoursWorked > 40
+    * grossPay = hourlyRates * hoursWorked + (0.5 * hourlyRate) * (hoursWorked - 40)
+    *   */
